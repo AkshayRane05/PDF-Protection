@@ -179,10 +179,10 @@ If you encounter any issues or have questions:
 - [PyPDF2](https://github.com/py-pdf/PyPDF2) library for PDF manipulation
 - Python community for excellent documentation and support
 
-## 📞 Contact
+<!-- ## 📞 Contact
 
 - **GitHub**: [@AkshayRane05](https://github.com/AkshayRane05)
-<!-- - **Email**: your.email@example.com -->
+- **Email**: your.email@example.com -->
 
 ---
 
