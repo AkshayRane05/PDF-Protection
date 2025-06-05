@@ -10,8 +10,8 @@ def create_password_protected_pdf(input_pdf, output_pdf, password):
             pdf_reader = PyPDF2.PdfReader(pdf_file)
             pdf_writer = PyPDF2.PdfWriter()
 
-            for page_num in range(len(pdf_reader.pages)):
-                pdf_writer.add_page(pdf_reader.pages[page_num])
+            for page in pdf_reader.pages:
+                pdf_writer.add_page(page)
 
             pdf_writer.encrypt(password)
 
