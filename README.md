@@ -33,8 +33,8 @@ pip install -r requirements.txt
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/AkshayRane05/PDF_Protection_Tool.git
-cd PDF_Protection_Tool
+git clone https://github.com/AkshayRane05/PDF-Protection-Tool.git
+cd PDF-Protection-Tool
 ```
 
 ## 🚀 Usage
@@ -83,7 +83,7 @@ python pdf_protection_tool.py /path/to/input.pdf /path/to/output/encrypted.pdf s
 ## 📁 Project Structure
 
 ```
-PDF_Protection_Tool/
+PDF-Protection-Tool/
 ├── pdf_protection_tool.py    # Main script
 ├── requirements.txt          # Python dependencies
 ├── README.md                # This file
@@ -143,8 +143,8 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/AkshayRane05/PDF_Protection_Tool.git
-cd PDF_Protection_Tool
+git clone https://github.com/AkshayRane05/PDF-Protection-Tool.git
+cd PDF-Protection-Tool
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/AkshayRane05/PDF_Protection_Tool/issues) page
+1. Check the [Issues](https://github.com/AkshayRane05/PDF-Protection-Tool/issues) page
 2. Create a new issue if your problem isn't already reported
 3. Provide detailed information about your environment and the error
 
